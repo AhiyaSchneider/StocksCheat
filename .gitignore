@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node (if you use it)
+node_modules/
+dist/
+build/
+
+# macOS + VSCode
+.DS_Store
+.vscode/
